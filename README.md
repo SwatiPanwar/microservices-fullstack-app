@@ -48,8 +48,7 @@ http://localhost:3000
 * Dockerized Backend
 
 ## 📸 Screenshots
-
-(Add screenshots here)
+<img width="1680" height="1050" alt="Screenshot 2026-04-19 at 11 15 53 PM" src="https://github.com/user-attachments/assets/9723d1a6-e1cb-4421-977e-8d2951d079c2" />
 
 ## 💡 Future Improvements
 
